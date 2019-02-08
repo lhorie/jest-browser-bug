@@ -1,0 +1,1 @@
+global.COUNT = global.COUNT ? global.COUNT + 1 : 1;

@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "postinstall": "node setup.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "jest": {
+    "browser": true
+  }
+}
